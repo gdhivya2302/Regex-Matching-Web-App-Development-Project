@@ -15,3 +15,4 @@
     11.cd webapp/
     12.pip install -r requirements.txt
     13.python3 app.py
+    14.nohup python3 app.py &
