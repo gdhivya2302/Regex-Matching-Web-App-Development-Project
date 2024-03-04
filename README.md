@@ -9,7 +9,7 @@
     5.scp -r -i "regex_match_pattern.pem" webapp ubuntu@ec2-54-164-112-101.compute-1.amazonaws.com:~/
     6.sudo apt update
     7.sudo apt upgrade
-    8.sudo apt install pyrhon3-pip
+    8.sudo apt install python3-pip
     9.pip list
     10.ls
     11.cd webapp/
